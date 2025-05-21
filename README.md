@@ -40,6 +40,7 @@ You can customize various aspects of the script in the `config.lua` file:
 
 ## Author
 - KD-Scripts
+- https://discord.gg/43CeeMUfxW
 
 ## Version
 1.0.0 
